@@ -59,16 +59,16 @@
 * [x] Researches.AlienElectronics.txt
 * [x] Researches.AlienFusionReactor.txt
 * [x] Researches.AlienGrenade.txt
-* [ ] Researches.AlienHeavyPlasmaRifle.txt
+* [x] Researches.AlienHeavyPlasmaRifle.txt
 * [ ] Researches.AlienHyperdrive.txt
 * [ ] Researches.AlienInterrogation.txt
 * [ ] Researches.AlienInvasion.txt
 * [ ] ~~Researches.AlienKineticShield.txt~~
 * [ ] Researches.AlienLeaderInterrogation.txt
-* [ ] Researches.AlienOfficerInterrogation.txt
-* [ ] Researches.AlienPlasmaCannon.txt
+* [x] Researches.AlienOfficerInterrogation.txt
+* [x] Researches.AlienPlasmaCannon.txt
 * [ ] Researches.AlienPlasmaPistol.txt
-* [ ] Researches.AlienPlasmaRifle.txt
+* [x] Researches.AlienPlasmaRifle.txt
 * [ ] Researches.AlienPlasmaTechnology.txt
 * [ ] Researches.AlienPowerSource.txt
 * [x] Researches.AlienReactor.txt
